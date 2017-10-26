@@ -1,2 +1,2 @@
 # heredot
-:rocket: Your own mini Travis CI  for .NET Core to run tests locally
+:rocket: Your own mini Travis CI  for .Net Core & .Net Standard to run tests locally
